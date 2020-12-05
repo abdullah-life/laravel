@@ -9,6 +9,7 @@
     }],
     "env": {
         "APP_NAME": "LaraTest",
+        "APP_KEY": "Idgz1PE3zO9iNc0E3oeH3CHDPX9MzZe3",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://yourproductionurl.com",
